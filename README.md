@@ -9,14 +9,7 @@
 > **A futuristic, real-time location tracker** blending full-stack performance with a cosmic neon UI.  
 > Built by **Saurabh Singh Rajput — Self-Taught Full-Stack Developer & Coder.**
 
----
-
-<div align="center">
-  <img src="tracker device.png" alt="Sun Tracker Demo" width="600">
-  <p><em>Real-time geolocation map with neon-styled interface.</em></p>
-</div>
-
----
+------
 
 ## ✨ Overview
 
